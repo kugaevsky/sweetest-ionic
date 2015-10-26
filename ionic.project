@@ -1,0 +1,11 @@
+{
+  "name": "SweetestIonic",
+  "app_id": "sweetest-ionic",
+  "gulpStartupTasks": [
+    "default"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
