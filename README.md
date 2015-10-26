@@ -37,4 +37,4 @@ Install all node and bower dependencies
 ## Development
 
 * `ionic serve` to compile application for browser and start dev server
-* `ionic emulate` to compile application for browser and start dev server
+* `ionic emulate` to compile application for emulator and start it
