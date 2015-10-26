@@ -7,5 +7,5 @@ plugins/
 hooks/
 www/
 resources/*
-!resources/icon.png
-!resources/splash.png
+!resources/icon.*
+!resources/splash.*
