@@ -18,6 +18,7 @@ Source compiled to `www` directory.
 
 Install all node and bower dependencies, restore Ionic state, add Ionic hooks and Cordova plugins, regenerate application icon and splash screen, and finally compile source.
 
+    $ npm install -g cordova ionic
     $ npm install
     $ npm run prepare
 
