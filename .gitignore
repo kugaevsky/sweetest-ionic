@@ -9,3 +9,4 @@ www/
 resources/*
 !resources/icon.*
 !resources/splash.*
+npm-debug.log
